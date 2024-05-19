@@ -3,7 +3,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicpires/)
 ![image](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 🔭 I’m currently working on Jack Experts
-- 🌱 I’m currently learning Docker, Kubernets, Helm, Angular, Java, Python, SpringBoot and databases
+- 🌱 Experience with Docker, Kubernetes, Ansible, Terraform, Cloud (Azure, AWS, Google Cloud, Oracle Cloud), Bash, Python, Java, Golang, Monitoring and Observability.
 - 📫 How to reach me: vinicpires03@gmail.com // +55 13 996589210
 
 
